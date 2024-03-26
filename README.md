@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm deepthi</h1>
 <h3 align="center">I am a aspiring Data Scientist</h3>
 <br>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Rtd2xtYXc3eGlzbzJnOTd1anFhZzJoaTBkdnEyN2MwY3JlNzJ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
-  ">
+<img align="right" alt="coding" width="400" src="">
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 
 
