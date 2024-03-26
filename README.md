@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm deepthi</h1>
 <h3 align="center">I am a aspiring Data Scientist</h3>
 <br>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d2ce764a32f2c2ee3235907e571521d5bb4d3babf47a90127807ef6bc2571262/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
+  ">
 
 
 
